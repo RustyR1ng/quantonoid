@@ -25,3 +25,6 @@
 **Лагутов А.С**
 
  - CTO
+ 
+ ##Ссылки
+ https://www.notion.so/quantonoid/8ad51662b2b748feb33d3ee5200805de?v=3ebc583014f548a18fd6e9f6cdda0ff5
